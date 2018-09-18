@@ -28,18 +28,18 @@ Cependant, je ne me sentais pas capable de réaliser une tel formation, le cursu
 
 De retour en France, j'ai trouve en travail dans mon domaine d'étude, dans l'import/export. Heureuse au début, il y avait beaucoup à apprendre, mais cela ne suffisait pas.
 
-Neanmoins cette idée de se lancer dans l'informatique ne me quittait pas, mais je ne savais pas dans "quoi", le monde de l'informatique etant tellement vaste, et paraît tellement inaccessible, part où commencer ?
+Neanmoins cette idée de se lancer dans l'informatique ne me quittait pas, mais je ne savais pas dans "quoi", le monde de l'informatique est vaste, et paraît tellement inaccessible, part où commencer ?
 
 **Je n'en savais rien. mais une chose été sûr, je ne voulais plus de ce travail.**
 
-Motivée par des témoignages de personnes ayant apprit un métier similaire en autodidact (Comme celui d'Abbey Jackson), il m'ouvrait la possibilité de faire de même.
+Motivée par le "pourquoi" je souhaite changer mon schema de vie et les témoignages de personnes ayant apprit un métier similaire en autodidact (Comme celui d'Abbey Jackson), il m'ouvrait la possibilité de faire de même.
 
-Il fallait donc commencer par définir le domaine dans lequel se lancer. Après avoir faire point entre les motivations et les ressources. Le choix d'iOS developpeur c'est imposé.
+Il fallait donc commencer par définir le domaine dans lequel se lancer. Après avoir faire point entre les motivations et les ressources. Le choix d'iOS developpeur s'est imposé.
 
-Etant impatiente d'entreprendre, j'ai voulu apprendre les fondamentaux de Swift, le soir après le travail, mais je n'y arrivais pas, par manque de structure, des bases, de temps, et de confiance,... 
+Etant impatiente d'entreprendre, j'ai voulu apprendre les fondamentaux de Swift, le soir après le travail, mais je n'y arrivais pas, par manque de structure, de base, de temps, et de confiance,... 
 
 
-A la suite de cela, il y a eu remise en question, ce qui m'a permis de redéfinir le plan d'apprentissage.
+A la suite de celà, il y a eu remise en question, ce qui m'a permis de redéfinir le plan d'apprentissage.
 
 Premier changement, la formation sera réaliser par OpenClassrooms afin de palier au manque de structure et de base.
 
