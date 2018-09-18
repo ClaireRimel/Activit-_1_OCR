@@ -50,7 +50,6 @@ Etant impatiente d'entreprendre, j'ai voulu apprendre les fondamentaux de Swift,
 
 
 
-
 A la suite de cela, il y a eu remise en question, ce qui m'a permis de redéfinir le plan d'apprentissage.
 
 	Premier changement, la formation sera réaliser par OpenClassrooms afin de palier au manque de structure et de base.
