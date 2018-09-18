@@ -1,7 +1,7 @@
 # Projet Professionnel 
 
 
-##Je veux devenir developpeur iOS d'ici 1 an.
+## Je veux devenir developpeur iOS d'ici 1 an.
 
 
 Il est clair que mon oriention professionnelle initiale, est légèrement différente de celle d'aujourd'hui.
@@ -16,11 +16,11 @@ Mais comme tout problème a sa solution, la mienne a été de partir en Autralie
 
 Après cette aventure extraodinaire, je suis revenu pour réaliser cette formation. Pour la valider, un stage en entreprise était indispensable. 
 
-*C'est grâce ce stage que ma vie a prit un autre sens.*
+**C'est grâce ce stage que ma vie a prit un autre sens.**
 
 Je travaillais au service marketing d'une start-up, elle propose un service touristique via une application mobile. C'est en découvrant les "coulisses" de la création et modification de l'application que ma curiosité et intêret pour le developement "informatique" est né !
 
-*Parallèlement, j'y ai rencontre mon compagnon, qui s'avèrait être le developpeur iOS de l'entreprise, de quoi rajouter de la motivation*
+**Parallèlement, j'y ai rencontre mon compagnon, qui s'avèrait être le developpeur iOS de l'entreprise, de quoi rajouter de la motivation**
 
 Cependant, je ne me sentais pas capable de réaliser une tel formation, le cursus classique est de 3 à 5 ans, je venais de terminer un bachelor, il etait temps de renter dans la vie active.
 
@@ -41,9 +41,9 @@ Etant impatiente d'entreprendre, j'ai voulu apprendre les fondamentaux de Swift,
 
 A la suite de cela, il y a eu remise en question, ce qui m'a permis de redéfinir le plan d'apprentissage.
 
-	Premier changement, la formation sera réaliser par OpenClassrooms afin de palier au manque de structure et de base.
+Premier changement, la formation sera réaliser par OpenClassrooms afin de palier au manque de structure et de base.
 
-	Et second changement, voulant concacrer 100% de mon temps à la formation. Après un an de travail, je l'ai quitté, avec le sentiment d'avoir fait le bon choix.
+Et second changement, voulant concacrer 100% de mon temps à la formation. Après un an de travail, je l'ai quitté, avec le sentiment d'avoir fait le bon choix.
 
 C'est par ces deux actions, que la confiance est arrivé petit à petit.
 
