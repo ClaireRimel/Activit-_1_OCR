@@ -1,6 +1,6 @@
-#Projet Professionnel 
+# Projet Professionnel 
 
-##Je veux devenir developpeur iOS d'ici 1 an.
+## Je veux devenir developpeur iOS d'ici 1 an.
 
 Il est clair que mon oriention professionnelle initiale, est légèrement différente de celle d'aujourd'hui.
 

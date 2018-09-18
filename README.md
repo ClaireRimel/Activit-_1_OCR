@@ -1,7 +1,4 @@
-# Activit-_1_OCR
-1ère activité OPCR
-
-Bonjour,
+# Présente du projet
 
 Ceci est un exercice permettant de practiquer les notions apprises lors du cours "Gérez votre code avec Git et GitHub d'Open Classrooms.
 
