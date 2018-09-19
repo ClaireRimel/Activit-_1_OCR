@@ -2,11 +2,11 @@
 
 Ceci est un exercice permettant de practiquer les notions apprises lors du cours "Gérez votre code avec Git et GitHub d'Open Classrooms.
 
-Dans un permier temps, nous avons appris l'utilité de versionner son code/fichier, et que pour chaque ajout ou modification, nous réaliserions un commit.
+Dans un premier temps, nous avons appris l'utilité de versionner son code/fichier, et que pour chaque ajout ou modification, nous réaliserions un commit.
 
-Le commit est une version du fichier à un moment donner, ce qui nous permer de retrouver une version du ficher et de suivre sa progression.
+Le commit est une version du fichier à un moment donner, ce qui nous permet de retrouver une version du ficher et de suivre sa progression.
 
-A la suite de cela, nous avons intergré la notion de "GIT" qui est un logiciel de gestion en modèle distribué. 
+A la suite de celà, nous avons intergré la notion de "GIT" qui est un logiciel de gestion en modèle distribué. 
 
 Le modèle distribué nous permet de travailler hors connection, et comme il fonction en mode pers to pers, nous avons moins de possibilité de perdre tout son travail, car il est accessible depuis plusieurs appareils.
 
