@@ -8,7 +8,7 @@ Le commit est une version du fichier à un moment donner, ce qui nous permet de 
 
 A la suite de celà, nous avons intergré la notion de "GIT" qui est un logiciel de gestion en modèle distribué. 
 
-Le modèle distribué nous permet de travailler hors connection, et comme il fonction en mode pers to pers, nous avons moins de possibilité de perdre tout son travail, car il est accessible depuis plusieurs appareils.
+Le modèle distribué nous permet de travailler hors connection, et comme il fonction en mode peer to peer, nous avons moins de possibilité de perdre tout son travail, car il est accessible depuis plusieurs appareils.
 
 Puis nous avons débuté par la prise en main du terminal, et le téléchargement de GIT, afin de rentrer dans le vif du sujet et de commencer à gérer nos fichiers grâce aux notions transmisent.
 
